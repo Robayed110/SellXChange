@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "418423589796",
+    "firebase_url": "https://fir-c3b1d-default-rtdb.firebaseio.com",
+    "project_id": "fir-c3b1d",
+    "storage_bucket": "fir-c3b1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418423589796:android:bec6cc09f531ac11224f31",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418423589796-pc0hve0c8oglu5vir53af9ik26s907nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAPhuwjoW2ia6Jlk79Y3yxhquWxq0QAMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418423589796-pc0hve0c8oglu5vir53af9ik26s907nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418423589796:android:d6329d2bb9164426224f31",
+        "android_client_info": {
+          "package_name": "com.example.labtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418423589796-pc0hve0c8oglu5vir53af9ik26s907nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAPhuwjoW2ia6Jlk79Y3yxhquWxq0QAMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418423589796-pc0hve0c8oglu5vir53af9ik26s907nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418423589796:android:27f5cb374fb4e598224f31",
+        "android_client_info": {
+          "package_name": "com.example.sellxchange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418423589796-pc0hve0c8oglu5vir53af9ik26s907nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAPhuwjoW2ia6Jlk79Y3yxhquWxq0QAMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418423589796-pc0hve0c8oglu5vir53af9ik26s907nl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
