@@ -58,16 +58,16 @@ https://github.com/Robayed110/SellXChange.git
     <th>Front Page</th>
   </tr>
   <tr>
-    <td><img src="Photo/login.jpg" width="200"/></td>
-    <td><img src="Photo/Frontpage.jpg" width="200"/></td>
+    <td><img src="photo/login.jpg" width="200"/></td>
+    <td><img src="photo/Frontpage.jpg" width="200"/></td>
   </tr>
   <tr>
     <th>Categories</th>
     <th>Cart Menu</th>
   </tr>
   <tr>
-    <td><img src="Photo/Categories.jpg" width="200"/></td>
-    <td><img src="Photo/Cart_menu.jpg" width="200"/></td>
+    <td><img src="photo/Categories.jpg" width="200"/></td>
+    <td><img src="photo/Cart_menu.jpg" width="200"/></td>
   </tr>
 </table>
 
