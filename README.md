@@ -2,7 +2,7 @@
 
 ## Overview
 
-**SellXchange** is an Android app that streamlines the process of buying and selling cars. It features a user-friendly interface, secure payments, and efficient order fulfillment, making car transactions accessible and convenient for everyone.
+**SellXchange** is an Android app that streamlines the process of buying cars. It features a user-friendly interface, secure payments, and efficient order fulfillment, making car transactions accessible and convenient for everyone.
 
 ## Features
 
@@ -52,9 +52,27 @@ https://github.com/Robayed110/SellXChange.git
 
 ### Screenshots
 
-![LogIn](Photo/login.jpg) ![Frontpage](Photo/Frontpage.jpg)
+<table>
+  <tr>
+    <th>Login Screen</th>
+    <th>Front Page</th>
+  </tr>
+  <tr>
+    <td><img src="Photo/login.jpg" width="200"/></td>
+    <td><img src="Photo/Frontpage.jpg" width="200"/></td>
+  </tr>
+  <tr>
+    <th>Categories</th>
+    <th>Cart Menu</th>
+  </tr>
+  <tr>
+    <td><img src="Photo/Categories.jpg" width="200"/></td>
+    <td><img src="Photo/Cart_menu.jpg" width="200"/></td>
+  </tr>
+</table>
 
-![Categories](Photo/Categories.jpg) ![Cart Menu](Photo/Cart_menu.jpg)
+
+
 
 
 
